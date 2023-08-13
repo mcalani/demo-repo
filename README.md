@@ -1,3 +1,4 @@
 # Demo 
 
-Some plain text -- my mac is working wolderfully 
+Some plain text 
+The screen is nice too 
